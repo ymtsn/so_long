@@ -1,0 +1,9 @@
+*.a
+*.o
+*.d
+*.json
+.vscode/
+so_long
+minilibx-linux/
+workspace.code-workspace
+*.dSYM/
